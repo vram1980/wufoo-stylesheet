@@ -1,3 +1,2 @@
-.wufoo {
-	border: 5px solid red;	
-}
+.wufoo {}
+.wufoo #header {display: none;}
